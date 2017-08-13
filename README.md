@@ -2,4 +2,4 @@
  A universal music search bar that allows search and play across Soundcloud, Spotify and Youtube
  
  [Hackathon Project]
- ⋅⋅*Won Horizons Hackathon, 2016
+* Won Horizons Hackathon, 2016
